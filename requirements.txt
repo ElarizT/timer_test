@@ -1,5 +1,4 @@
 pyodbc
 datetime
 PyQt6
-logging
 plyer
